@@ -11,6 +11,7 @@ node_modules
 build
 *.local
 
+.next
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
